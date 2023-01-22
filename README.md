@@ -1,6 +1,26 @@
-# Town Of Host
+# Town Of Host With NIM
 
-[English](https://github.com/tukasa0001/TownOfHost/blob/main/README-EN.md)
+## 書くべきお約束
+この Mod は非公式のものであり、この Mod の開発に関して Among Us の開発元である"Innersloth"は一切関与していません。<br>
+この Mod の問題などに関して公式に問い合わせないでください。<br>
+
+## このMODとは
+tukasa0001さんたちが制作した[TownOfHost](https://github.com/tukasa0001/TownOfHost)に私たちが作った[NeutralInModes](https://github.com/oshurecat/NeutralInModes)の役職を付け加えたものとなっています。
+
+## 公式リンク
+- [discord](https://discord.gg/FRrEAXJqzx)
+- [YouTube](https://www.youtube.com/channel/UCL-TRSrWExcs6ib8PP1bshA)
+- [Twitter](https://twitter.com/NIMamongMOD)
+- [LINE オープンチャット](https://line.me/ti/g2/63LxmQd-9vvfadFUHfZZ-u0QO_z3OyQoz36fOw?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+
+## 追加機能
+### 役職
+### モード
+### その他
+
+以下TownOfHost様のREDAME
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Town Of Host
 
 [![TownOfHost-Title](./Images/TownOfHost-Title.png)](https://youtu.be/IGguGyq_F-c)
 
